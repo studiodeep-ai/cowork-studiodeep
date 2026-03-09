@@ -12,3 +12,4 @@ Personal Claude Code plugin marketplace for StudioDeep projects.
 claude plugin marketplace add /Users/timdpaep/LocalDev/studiodeep/claude-plugins --scope user
 claude plugin install media-prompter
 ```
+# cowork-studiodeep
