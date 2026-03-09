@@ -3,7 +3,7 @@
   "name": "studiodeep-plugins",
   "description": "Personal Claude Code plugins for StudioDeep projects",
   "owner": {
-    "name": "Tim Paep",
+    "name": "Tim De Paepe",
     "url": "https://studiodeep.ai"
   },
   "plugins": [
