@@ -1,0 +1,11 @@
+{
+  "name": "media-prompter",
+  "version": "0.1.0",
+  "description": "Generates rich, structured prompts for AI media generation tools like Midjourney, DALL-E, Stable Diffusion, Sora, and RunwayML",
+  "author": {
+    "name": "Tim Paep",
+    "url": "https://studiodeep.ai"
+  },
+  "license": "MIT",
+  "keywords": ["media", "prompts", "image-generation", "midjourney", "dalle", "stable-diffusion", "video", "ai-art"]
+}
