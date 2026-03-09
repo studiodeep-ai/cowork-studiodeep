@@ -1,7 +1,7 @@
 ---
 name: media-prompter
 description: This skill should be used when the user wants to create, write, or improve prompts for AI image generation, AI video generation, or AI audio generation. Activate when the user mentions Midjourney, DALL-E, Stable Diffusion, Sora, RunwayML, Kling, Flux, or any AI art/media tool. Also activate when the user says "generate a prompt", "write a prompt for", "help me prompt", "image prompt", "video prompt", or describes a visual scene they want to create with AI.
-version: 0.1.1
+version: 0.1.2
 ---
 
 # Media Prompter Skill
