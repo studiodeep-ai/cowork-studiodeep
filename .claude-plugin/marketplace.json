@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "studiodeep-plugins",
+  "description": "Personal Claude Code plugins for StudioDeep projects",
+  "owner": {
+    "name": "Tim Paep",
+    "url": "https://studiodeep.ai"
+  },
+  "plugins": [
+    {
+      "name": "media-prompter",
+      "description": "Generates rich, structured prompts for AI media generation tools like Midjourney, DALL-E, Stable Diffusion, Sora, and RunwayML",
+      "author": {
+        "name": "Tim Paep",
+        "url": "https://studiodeep.ai"
+      },
+      "source": "./plugins/media-prompter",
+      "category": "productivity"
+    }
+  ]
+}
