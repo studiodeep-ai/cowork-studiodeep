@@ -15,7 +15,7 @@
         "name": "Tim De Paepe",
         "url": "https://studiodeep.ai"
       },
-      "source": "./plugins/media-prompter",
+      "source": "https://github.com/studiodeep-ai/cowork-studiodeep/tree/main/plugins/media-prompter",
       "category": "productivity"
     }
   ]
